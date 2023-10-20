@@ -4,5 +4,7 @@ Esse projeto é uma aplicação console desenvolvido em .NET 7 com o intúito de
 
 # Framework
 
-itext7 - Version 8.0.1
-text7.bouncy-castle-adapter  - Version 8.0.1
+|Nome                           |Versão             |
+|-------------------------------|-------------------|
+|`itext7`                       |'8.0.1'            |
+|`text7.bouncy-castle-adapter`  |"8.0.1"            |
